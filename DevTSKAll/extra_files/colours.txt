@@ -1,0 +1,144 @@
+bucket in/out:
+H:0/0
+S:0/0
+V:81/16
+brine:
+H:51
+S:43
+V:100
+rims:
+H:N\A
+S:N\A
+V:1/2
+bronze:
+H:19
+S:89
+V:99
+stick:
+H:38
+S:74
+V:46
+coal/carbon
+H:0
+S:0
+V:15
+diamond
+H:170
+S:43
+V:96
+obsidian
+H:259
+S:44
+V:34
+redstone
+H:0
+S:100
+V:100
+Copper
+H:22
+S:63
+V:51
+stone and grey things
+H:0
+S:0
+V:56
+gold \ butter
+H:60
+S:100
+V:100
+iron and white things
+H:0
+S:0
+V:88
+osmium
+H:211
+S:39
+V:64
+silver
+H:221
+S:31
+V:100
+Tin
+H:0
+S:0
+V:50
+Hydrogen
+H:0
+S:0
+V:0
+Oxygen
+H:20
+S:26
+V:88
+glowstone
+H:60
+S:100
+V:79
+HDPE stuff
+H:0
+S:0
+V:100
+Solar and lapiz
+H:240
+S:100
+V:100
+cable 
+H:0
+S:0
+V:22
+steel
+H:0
+S:0
+V:54
+mekanism boxes and generators
+H:180
+S:27
+V:19
+"black" rim on mekanism junk
+H:204
+S:25
+v:8
+Sand / sandstone
+H:47
+S:25
+V:86
+Grassy overlays?
+H:0
+S:0
+V:72
+Emerald
+H:108
+S:92
+V:100
+Brick
+H:13
+S:65
+V:72
+Invar
+H:185
+S:37
+V:75
+TE Frames:
+H:45
+S:2
+V:73
+Nether Quartz
+H:0
+S:0
+V:76
+Seared Stone
+H:0
+S:0
+V:16
+Cavenium:
+H:0
+S:0
+V:7
+Heavy Water:
+H:240
+S:85
+V:64
+Lithium:
+H:70
+S:97
+V:88
