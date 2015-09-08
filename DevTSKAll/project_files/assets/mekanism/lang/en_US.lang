@@ -1,0 +1,44 @@
+item.BasicControlCircuit.name=§aBasic Control Circuit
+item.AdvancedControlCircuit.name=§4Advanced Control Circuit
+item.EliteControlCircuit.name=§1Elite Control Circuit
+item.UltimateControlCircuit.name=§d§kUltimate§r §dControl Circuit
+
+tile.BasicBlock2.InductionCellBasic.name=§aBasic Induction Cell
+tile.BasicBlock2.InductionCellAdvanced.name=§4Advanced Induction Cell
+tile.BasicBlock2.InductionCellElite.name=§1Elite Induction Cell
+tile.BasicBlock2.InductionCellUltimate.name=§d§kUltimate§r §dInduction Cell
+tile.BasicBlock2.InductionProviderBasic.name=§aBasic Induction Provider
+tile.BasicBlock2.InductionProviderAdvanced.name=§4Advanced Induction Provider
+tile.BasicBlock2.InductionProviderElite.name=§1Elite Induction Provider
+tile.BasicBlock2.InductionProviderUltimate.name=§d§kUltimate§r §dInduction Provider
+
+item.MultipartTransmitter.BasicPressurizedTube.name=§aBasic Pressurized Tube
+item.MultipartTransmitter.AdvancedPressurizedTube.name=§4Advanced Pressurized Tube
+item.MultipartTransmitter.ElitePressurizedTube.name=§1Elite Pressurized Tube
+item.MultipartTransmitter.UltimatePressurizedTube.name=§d§kUltimate§r §dPressurized Tube
+item.MultipartTransmitter.BasicUniversalCable.name=§aBasic Universal Cable
+item.MultipartTransmitter.AdvancedUniversalCable.name=§4Advanced Universal Cable
+item.MultipartTransmitter.EliteUniversalCable.name=§1Elite Universal Cable
+item.MultipartTransmitter.UltimateUniversalCable.name=§d§kUltimate§r §dUniversal Cable
+item.MultipartTransmitter.BasicMechanicalPipe.name=§aBasic Mechanical Pipe
+item.MultipartTransmitter.AdvancedMechanicalPipe.name=§4Advanced Mechanical Pipe
+item.MultipartTransmitter.EliteMechanicalPipe.name=§1Elite Mechanical Pipe
+item.MultipartTransmitter.UltimateMechanicalPipe.name=§d§kUltimate§r §dMechanical Pipe
+item.MultipartTransmitter.BasicLogisticalTransporter.name=§aBasic Logistical Transporter
+item.MultipartTransmitter.AdvancedLogisticalTransporter.name=§4Advanced Logistical Transporter
+item.MultipartTransmitter.EliteLogisticalTransporter.name=§1Elite Logistical Transporter
+item.MultipartTransmitter.UltimateLogisticalTransporter.name=§d§kUltimate§r §dLogistical Transporter
+
+tile.EnergyCubeBasic.name=§aBasic Energy Cube
+tile.EnergyCubeAdvanced.name=§4Advanced Energy Cube
+tile.EnergyCubeElite.name=§1Elite Energy Cube
+tile.EnergyCubeUltimate.name=§d§kUltimate§r §dEnergy Cube
+
+item.basicFactoryInstaller.name=§aBasic Factory Installer
+item.advancedFactoryInstaller.name=§4Advanced Factory Installer
+item.eliteFactoryInstaller.name=§1Elite Factory Installer
+
+tier.Basic=§aBasic
+tier.Advanced=§4Advanced
+tier.Elite=§1Elite
+tier.Ultimate=§d§kUltimate§r§d
