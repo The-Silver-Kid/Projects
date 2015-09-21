@@ -8,7 +8,7 @@ PLAYERNAME: What? Where am I?
 
 PLAYERNAME: What was that I did not hear that?
 
-            Then you are not yet worthy enough.
+            Then you are not yet ready.
 
 PLAYERNAME: What?
 
