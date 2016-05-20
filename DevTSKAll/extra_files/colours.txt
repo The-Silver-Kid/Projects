@@ -22,7 +22,7 @@ coal/carbon
 H:0
 S:0
 V:15
-diamond
+diamond / platinum
 H:170
 S:43
 V:96
@@ -115,9 +115,9 @@ H:13
 S:65
 V:72
 Invar
-H:185
-S:37
-V:75
+H:157
+S:11
+V:94
 TE Frames:
 H:45
 S:2
@@ -142,3 +142,27 @@ Lithium:
 H:70
 S:97
 V:88
+Signalum:
+H:17
+S:100
+V:9
+Nickel / Ferrous
+H:50
+S:32
+V:85
+Lead :
+H:225
+S:21
+V:45
+Electrum : grid
+H:221 + 60
+S:31 + 100
+V:100 + 100
+Mithril :
+H:296
+S:16
+V:67
+Lumium :
+H:49
+S:100
+V:100

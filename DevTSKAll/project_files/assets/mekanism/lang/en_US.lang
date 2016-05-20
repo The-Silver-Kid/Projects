@@ -38,6 +38,12 @@ item.basicFactoryInstaller.name=§aBasic Factory Installer
 item.advancedFactoryInstaller.name=§4Advanced Factory Installer
 item.eliteFactoryInstaller.name=§1Elite Factory Installer
 
+gas.hydrogenChloride=Hydrochloric Acid
+gas.sulfurTrioxideGas=Sulphide
+
+fluid.sulfurTrioxideGas=Liquid Sulphide
+fluid.hydrogenChloride=Liquid Hydrochloric Acid
+
 tier.Basic=§aBasic
 tier.Advanced=§4Advanced
 tier.Elite=§1Elite
