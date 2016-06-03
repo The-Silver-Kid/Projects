@@ -145,8 +145,8 @@ V:88
 Signalum:
 H:17
 S:100
-V:9
-Nickel / Ferrous
+V:87
+Nickel / Ferrous / Stupid
 H:50
 S:32
 V:85
@@ -170,3 +170,7 @@ Dirt :
 H:25
 S:54
 V:35
+Resonant Ender : Outline black
+H: 270
+S: 100
+V: 100
