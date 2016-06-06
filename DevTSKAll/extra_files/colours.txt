@@ -174,3 +174,7 @@ Resonant Ender : Outline black
 H: 270
 S: 100
 V: 100
+Metioric iron :
+H:20
+S:65
+V:29
