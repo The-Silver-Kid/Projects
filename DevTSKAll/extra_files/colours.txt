@@ -178,3 +178,11 @@ Metioric iron :
 H:20
 S:65
 V:29
+æternalis fuel :
+H:240
+S:18
+V:100
+Chlorine:
+H:49
+S:80
+V:95
