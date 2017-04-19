@@ -1,3 +1,7 @@
+§aBasic
+§4Advanced
+§1Elite
+§d§kUltimate§r §d
 bucket in/out:
 H:0/0
 S:0/0
@@ -65,7 +69,7 @@ V:50
 Hydrogen
 H:0
 S:0
-V:0
+V:100
 Oxygen
 H:20
 S:26
@@ -190,3 +194,35 @@ Oil :
 H:0
 S:0
 V:0
+Sulphur :
+H:51
+S:100
+V:100
+White mekanism things:
+H:0
+S:0
+V:97
+Ethene:
+H:281
+S:19
+V:98
+HCl:
+H:168
+S:39
+V:100
+Na:
+H:180
+S:25
+V:100
+SO2:
+H:60
+S:100
+V:56
+SO3:
+H:60
+S:100
+V:38
+H2SO4:
+H:60
+S:60
+V:30

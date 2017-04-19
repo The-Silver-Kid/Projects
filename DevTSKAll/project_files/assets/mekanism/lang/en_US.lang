@@ -1,50 +1,121 @@
+//Control Circuits
 item.BasicControlCircuit.name=§aBasic Control Circuit
 item.AdvancedControlCircuit.name=§4Advanced Control Circuit
 item.EliteControlCircuit.name=§1Elite Control Circuit
-item.UltimateControlCircuit.name=§d§kUltimate§r §dControl Circuit
+item.UltimateControlCircuit.name=§d§kUltimate§r §d Control Circuit
 
+//Gas Tank
+tile.GasTankBasic.name=§aBasic Gas Tank
+tile.GasTankAdvanced.name=§4Advanced Gas Tank
+tile.GasTankElite.name=§1Elite Gas Tank
+tile.GasTankUltimate.name=§d§kUltimate§r §d Gas Tank
+
+//Fluid Tank (part of MachineBlock2, naming handled differently)
+tile.FluidTankBasic.name=§aBasic Fluid Tank
+tile.FluidTankAdvanced.name=§4Advanced Fluid Tank
+tile.FluidTankElite.name=§1Elite Fluid Tank
+tile.FluidTankUltimate.name=§d§kUltimate§r §d Fluid Tank
+
+//Bounding Block
+tile.BoundingBlock.name=§kI HATE THESE!§r
+
+tile.BasicBlock.BinBasic.name=§aBasic Bin
+tile.BasicBlock.BinAdvanced.name=§4Advanced Bin
+tile.BasicBlock.BinElite.name=§1Elite Bin
+tile.BasicBlock.BinUltimate.name=§d§kUltimate§r §d Bin
 tile.BasicBlock2.InductionCellBasic.name=§aBasic Induction Cell
 tile.BasicBlock2.InductionCellAdvanced.name=§4Advanced Induction Cell
 tile.BasicBlock2.InductionCellElite.name=§1Elite Induction Cell
-tile.BasicBlock2.InductionCellUltimate.name=§d§kUltimate§r §dInduction Cell
+tile.BasicBlock2.InductionCellUltimate.name=§d§kUltimate§r §d Induction Cell
 tile.BasicBlock2.InductionProviderBasic.name=§aBasic Induction Provider
 tile.BasicBlock2.InductionProviderAdvanced.name=§4Advanced Induction Provider
 tile.BasicBlock2.InductionProviderElite.name=§1Elite Induction Provider
-tile.BasicBlock2.InductionProviderUltimate.name=§d§kUltimate§r §dInduction Provider
+tile.BasicBlock2.InductionProviderUltimate.name=§d§kUltimate§r §d Induction Provider
 
+tile.MachineBlock.PersonalChest.name=Electric Chest
+
+//Transmitters
 item.MultipartTransmitter.BasicPressurizedTube.name=§aBasic Pressurized Tube
 item.MultipartTransmitter.AdvancedPressurizedTube.name=§4Advanced Pressurized Tube
 item.MultipartTransmitter.ElitePressurizedTube.name=§1Elite Pressurized Tube
-item.MultipartTransmitter.UltimatePressurizedTube.name=§d§kUltimate§r §dPressurized Tube
+item.MultipartTransmitter.UltimatePressurizedTube.name=§d§kUltimate§r §d Pressurized Tube
 item.MultipartTransmitter.BasicUniversalCable.name=§aBasic Universal Cable
 item.MultipartTransmitter.AdvancedUniversalCable.name=§4Advanced Universal Cable
 item.MultipartTransmitter.EliteUniversalCable.name=§1Elite Universal Cable
-item.MultipartTransmitter.UltimateUniversalCable.name=§d§kUltimate§r §dUniversal Cable
+item.MultipartTransmitter.UltimateUniversalCable.name=§d§kUltimate§r §d Universal Cable
 item.MultipartTransmitter.BasicMechanicalPipe.name=§aBasic Mechanical Pipe
 item.MultipartTransmitter.AdvancedMechanicalPipe.name=§4Advanced Mechanical Pipe
 item.MultipartTransmitter.EliteMechanicalPipe.name=§1Elite Mechanical Pipe
-item.MultipartTransmitter.UltimateMechanicalPipe.name=§d§kUltimate§r §dMechanical Pipe
+item.MultipartTransmitter.UltimateMechanicalPipe.name=§d§kUltimate§r §d Mechanical Pipe
 item.MultipartTransmitter.BasicLogisticalTransporter.name=§aBasic Logistical Transporter
 item.MultipartTransmitter.AdvancedLogisticalTransporter.name=§4Advanced Logistical Transporter
 item.MultipartTransmitter.EliteLogisticalTransporter.name=§1Elite Logistical Transporter
-item.MultipartTransmitter.UltimateLogisticalTransporter.name=§d§kUltimate§r §dLogistical Transporter
+item.MultipartTransmitter.UltimateLogisticalTransporter.name=§d§kUltimate§r §d Logistical Transporter
+item.MultipartTransmitter.BasicThermodynamicConductor.name=§aBasic Thermodynamic Conductor
+item.MultipartTransmitter.AdvancedThermodynamicConductor.name=§4Advanced Thermodynamic Conductor
+item.MultipartTransmitter.EliteThermodynamicConductor.name=§1Elite Thermodynamic Conductor
+item.MultipartTransmitter.UltimateThermodynamicConductor.name=§d§kUltimate§r §d Thermodynamic Conductor
 
+//Energy Cubes
 tile.EnergyCubeBasic.name=§aBasic Energy Cube
 tile.EnergyCubeAdvanced.name=§4Advanced Energy Cube
 tile.EnergyCubeElite.name=§1Elite Energy Cube
-tile.EnergyCubeUltimate.name=§d§kUltimate§r §dEnergy Cube
+tile.EnergyCubeUltimate.name=§d§kUltimate§r §d Energy Cube
+tile.EnergyCubeCreative.name=Creative Energy Cube (Cheater)
 
-item.basicFactoryInstaller.name=§aBasic Factory Installer
-item.advancedFactoryInstaller.name=§4Advanced Factory Installer
-item.eliteFactoryInstaller.name=§1Elite Factory Installer
+//Tier Installers
+item.basicTierInstaller.name=§aBasic Tier Installer
+item.advancedTierInstaller.name=§4Advanced Tier Installer
+item.eliteTierInstaller.name=§1Elite Tier Installer
+item.ultimateTierInstaller.name=§d§kUltimate§r §d Tier Installer
 
-gas.hydrogenChloride=Hydrochloric Acid
-gas.sulfurTrioxideGas=Sulphide
+gas.iron=Iron Mixture
+gas.gold=Gold Mixture
+gas.osmium=Osmium Mixture
+gas.copper=Copper Mixture
+gas.tin=Tin Mixture
+gas.silver=Silver Mixture
+gas.obsidian=Obsidian Mixture
+gas.lead=Lead Mixture
 
-fluid.sulfurTrioxideGas=Liquid Sulphide
-fluid.hydrogenChloride=Liquid Hydrochloric Acid
+gas.cleanIron=Clean Iron Mixture
+gas.cleanGold=Clean Gold Mixture
+gas.cleanOsmium=Clean Osmium Mixture
+gas.cleanCopper=Clean Copper Mixture
+gas.cleanTin=Clean Tin Mixture
+gas.cleanSilver=Clean Silver Mixture
+gas.cleanObsidian=Clean Obsidian Mixture
+gas.cleanLead=Clean Lead Mixture
 
-tier.Basic=§aBasic
-tier.Advanced=§4Advanced
-tier.Elite=§1Elite
-tier.Ultimate=§d§kUltimate§r§d
+//Tier names
+tier.§aBasic=§aBasic
+tier.§4Advanced=§4Advanced
+tier.§1Elite=§1Elite
+tier.§d§kUltimate§r §d=§d§kUltimate§r §d
+tier.Creative=Creative
+
+//Update handler text
+update.consider=Consider playing solitaire instead.
+update.newFeatures=Contains about 48 more cards.
+update.visit=Visit
+update.toDownload=To update your outdated mekanism install.
+
+//Upgrades
+upgrade.energy.desc=Keeps the power company off your back.
+upgrade.speed=Speed Force
+upgrade.speed.desc=Makes machinery able to harness the power of the speed force... (Theoretically)
+upgrade.filter.desc=If you need to gain weight one neutron at a time...
+upgrade.gas=Fuel Efficiency
+upgrade.gas.desc=Because being environmentally friendly applies here...
+upgrade.muffling=Auditory
+upgrade.muffling.desc=Just in case you want to keep your hearing...
+
+//Entities
+entity.Mekanism.Robit.name=Robit
+entity.Mekanism.BabySkeleton.name=Adian's Little 'Angel'
+
+gui.robit.greeting=Hi, I am
+
+tooltip.SecurityDesk=Adian's All-In-One Anti-Trolling Desk!
+
+tooltip.QuantumEntangloporter=Quantum Entanglo... porter.... So... it moves stuff with real life hacks.... huh...
