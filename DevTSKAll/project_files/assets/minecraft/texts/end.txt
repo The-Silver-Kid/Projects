@@ -60,7 +60,7 @@ PLAYERNAME: Why what happened?
 
 PLAYERNAME: Who was he?
 
-            He was the rightfull heir to the thrown before my son was born.
+            He was the rightfull heir to the thrown before my Kid was born.
 
 PLAYERNAME: I never knew my parents...
 
@@ -76,7 +76,7 @@ PLAYERNAME: The Endermen.
 
 PLAYERNAME: So, What happened next?
 
-            Me my wife and my son hid in the depest pits of the nether and only whence the time was right would we leave.
+            Me my wife and my Kid hid in the depest pits of the nether and only whence the time was right would we leave.
 
 PLAYERNAME: And now is right?
 
@@ -88,17 +88,17 @@ PLAYERNAME: Im confused
 
 PLAYERNAME: Ok...
 
-            After a time the Dark one Dyed leaving the dragon behind. This confused the dragon because he was told he would never die unless killed by the rightfull son of the king.
+            After a time the Dark one Dyed leaving the dragon behind. This confused the dragon because he was told he would never die unless killed by the rightfull Kid of the king.
 
 PLAYERNAME: But I killed it...
 
             I know... Um, it was a lie told to the dragon.
 
-PLAYERNAME: But if only you your wife and your son escaped you must be one of my relitives.
+PLAYERNAME: But if only you your wife and your Kid escaped you must be one of my relitives.
 
             Yes me and my wife await your help.
 
-PLAYERNAME: What about your son?
+PLAYERNAME: What about your Kid?
 
             This is not the time to talk of him.
 
@@ -128,4 +128,4 @@ PLAYERNAME: Can you do that?
 
 PLAYERNAME: I am ready.
 
-            Go my son and free us!
+            Go my child and free us!

@@ -9,6 +9,7 @@
 §f			Markus Persson
 §f			Jens Bergensten
 §f			Nathan Adams
+§f			§kThe_Silver_Kid§r
 
 §7Programming:
 §f			Erik Broes
