@@ -86,7 +86,7 @@ Solar and lapiz
 H:240
 S:100
 V:100
-cable 
+cable :
 H:0
 S:0
 V:22
@@ -174,7 +174,7 @@ Dirt :
 H:25
 S:54
 V:35
-Resonant Ender : Outline black
+Resonant Ender / Enderium : Outline black
 H: 270
 S: 100
 V: 100
@@ -230,3 +230,27 @@ Apatite:
 H:210
 S:100
 V:74
+Cinabar
+H:7
+S:90
+V:78
+Ice
+H:218
+S:33
+V:100
+ærotheum
+H:43
+S:100
+V:80
+Tritium
+H:210
+S:100
+V:100
+Deuterium
+H:8
+S:100
+V:100
+DT
+H:300
+S:100
+V:100

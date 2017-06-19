@@ -1,0 +1,4 @@
+
+pe.command.reload.started=Filing taxes, expect lag.
+pe.command.reload.success=Taxes Filed. Sending updated data to IRS.
+pe.command.reload.notice=Restart or use "/projecte reloadEMC" when all changes are complete.

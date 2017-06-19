@@ -1,3 +1,7 @@
+gas.sulfurDioxideGas=Sulfate
+gas.sulfurTrioxideGas=Sulfide
+gas.hydrogenChloride=Hydrochloric Acid
+
 //Control Circuits
 item.BasicControlCircuit.name=§aBasic Control Circuit
 item.AdvancedControlCircuit.name=§4Advanced Control Circuit
@@ -93,12 +97,6 @@ tier.§4Advanced=§4Advanced
 tier.§1Elite=§1Elite
 tier.§d§kUltimate§r §d=§d§kUltimate§r §d
 tier.Creative=Creative
-
-//Update handler text
-update.consider=Consider playing solitaire instead.
-update.newFeatures=Contains about 48 more cards.
-update.visit=Visit
-update.toDownload=To update your outdated mekanism install.
 
 //Upgrades
 upgrade.energy.desc=Keeps the power company off your back.
