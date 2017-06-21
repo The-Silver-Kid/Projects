@@ -54,6 +54,10 @@ iron and white things
 H:0
 S:0
 V:88
+Iron ore colour:
+H:24
+S:32
+V:85
 osmium
 H:211
 S:39
@@ -93,7 +97,7 @@ V:22
 steel
 H:0
 S:0
-V:54
+V:25
 mekanism boxes and generators
 H:180
 S:27
