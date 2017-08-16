@@ -262,3 +262,19 @@ Aluminum
 H:300
 S:30
 V:100
+Silicone 
+H:244
+S:14
+V:42S
+Nether wart / brick
+H:355
+S:78
+V:65
+Nether Brick
+H:354
+S:78
+V:32
+Prismarine
+H:155
+S:15
+V:88
